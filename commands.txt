@@ -1,0 +1,15 @@
+
+
+
+1 clone or dll(https)
+2 git clone link
+3 git add -A
+4 git commit -m "comment"
+5 git push
+
+
+
+Update
+
+1 git pull
+2 git status
